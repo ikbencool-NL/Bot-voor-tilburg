@@ -7,7 +7,7 @@ Deze bot is een eenvoudige Discord-bot in het Nederlands met moderne slash comma
 Open [.env](.env) en controleer of je token correct staat.
 
 ```env
-DISCORD_TOKEN=JOUW_DISCORD_TOKEN_HIER
+DISCORD_TOKEN=
 BOT_PREFIX=!
 BOT_NAME=Westhuizen roleplay | asistent
 ```
